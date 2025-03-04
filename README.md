@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um imagem em 8 bits sobre o aprendizado na DIO.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizado o Copilot.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizando um prompt criado utilizando o aprendizado até este momento.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A imagem criada ficou interessante, porém o maior desafio foi da IA é incluir letras nas imagens. Pedi para incluir o nome DIO mas a IA não conseguiu. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É um processo que exige muito treino para especificar exatamente o que se quer. Até que o resultado saia mais ou menos como o esperado.
 ```
 
 ### Exemplos e Insigths
